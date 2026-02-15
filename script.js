@@ -1,6 +1,6 @@
 let submitBtn = document.getElementById("submit");
-let p1Input = document.getElementById("p1");
-let p2Input = document.getElementById("p2");
+let p1Input = document.getElementById("player1");
+let p2Input = document.getElementById("player2");
 let container = document.querySelector(".container");
 
 let gameSection = document.getElementById("gameSection");
